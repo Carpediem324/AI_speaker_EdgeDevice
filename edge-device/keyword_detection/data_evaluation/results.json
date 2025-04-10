@@ -1,0 +1,797 @@
+[
+    {
+        "wav_file": "TA_kimmincheol2.wav",
+        "max_confidence": 0.6933876276016235,
+        "type": "TA"
+    },
+    {
+        "wav_file": "TA_kimmincheol3.wav",
+        "max_confidence": 0.6757043600082397,
+        "type": "TA"
+    },
+    {
+        "wav_file": "FA_kimmincheol4.wav",
+        "max_confidence": 0.5312767028808594,
+        "type": "FA"
+    },
+    {
+        "wav_file": "FA_kimmincheol3.wav",
+        "max_confidence": 0.6125072240829468,
+        "type": "FA"
+    },
+    {
+        "wav_file": "TA_kimmincheol4.wav",
+        "max_confidence": 0.7563596963882446,
+        "type": "TA"
+    },
+    {
+        "wav_file": "FA_kimmincheol2.wav",
+        "max_confidence": 0.5416760444641113,
+        "type": "FA"
+    },
+    {
+        "wav_file": "FA_kimmincheol1.wav",
+        "max_confidence": 0.6051396131515503,
+        "type": "FA"
+    },
+    {
+        "wav_file": "TA_kimmincheol1.wav",
+        "max_confidence": 0.6250309944152832,
+        "type": "TA"
+    },
+    {
+        "wav_file": "TA_shinyonghyun1.wav",
+        "max_confidence": 0.7752271890640259,
+        "type": "TA"
+    },
+    {
+        "wav_file": "FA_shinyonghyun2.wav",
+        "max_confidence": 0.5497186779975891,
+        "type": "FA"
+    },
+    {
+        "wav_file": "FA_shinyonghyun1.wav",
+        "max_confidence": 0.5523666143417358,
+        "type": "FA"
+    },
+    {
+        "wav_file": "TA_shinyonghyun4.wav",
+        "max_confidence": 0.8056623935699463,
+        "type": "TA"
+    },
+    {
+        "wav_file": "FA_shinyonghyun3.wav",
+        "max_confidence": 0.6287307143211365,
+        "type": "FA"
+    },
+    {
+        "wav_file": "TA_shinyonghyun2.wav",
+        "max_confidence": 0.7946186661720276,
+        "type": "TA"
+    },
+    {
+        "wav_file": "TA_shinyonghyun3.wav",
+        "max_confidence": 0.8160815238952637,
+        "type": "TA"
+    },
+    {
+        "wav_file": "FA_shinyonghyun4.wav",
+        "max_confidence": 0.5387004017829895,
+        "type": "FA"
+    },
+    {
+        "wav_file": "TA_kimseonghyeon3.wav",
+        "max_confidence": 0.7382080554962158,
+        "type": "TA"
+    },
+    {
+        "wav_file": "FA_kimseonghyeon3.wav",
+        "max_confidence": 0.5818584561347961,
+        "type": "FA"
+    },
+    {
+        "wav_file": "FA_kwonwoohyun4.wav",
+        "max_confidence": 0.5665475726127625,
+        "type": "FA"
+    },
+    {
+        "wav_file": "TA_kimseonghyeon4.wav",
+        "max_confidence": 0.7994729280471802,
+        "type": "TA"
+    },
+    {
+        "wav_file": "FA_kwonwoohyun2.wav",
+        "max_confidence": 0.5512325167655945,
+        "type": "FA"
+    },
+    {
+        "wav_file": "FA_kwonwoohyun3.wav",
+        "max_confidence": 0.6397640705108643,
+        "type": "FA"
+    },
+    {
+        "wav_file": "FA_kimseonghyeon4.wav",
+        "max_confidence": 0.5479936599731445,
+        "type": "FA"
+    },
+    {
+        "wav_file": "TA_kwonwoohyun2.wav",
+        "max_confidence": 0.8412241339683533,
+        "type": "TA"
+    },
+    {
+        "wav_file": "TA_kwonwoohyun1.wav",
+        "max_confidence": 0.7994462847709656,
+        "type": "TA"
+    },
+    {
+        "wav_file": "FA_kimseonghyeon2.wav",
+        "max_confidence": 0.5371766090393066,
+        "type": "FA"
+    },
+    {
+        "wav_file": "TA_kwonwoohyun4.wav",
+        "max_confidence": 0.8303995132446289,
+        "type": "TA"
+    },
+    {
+        "wav_file": "FA_kimseonghyeon1.wav",
+        "max_confidence": 0.5652514696121216,
+        "type": "FA"
+    },
+    {
+        "wav_file": "TA_kimseonghyeon2.wav",
+        "max_confidence": 0.7535626888275146,
+        "type": "TA"
+    },
+    {
+        "wav_file": "TA_kimseonghyeon1.wav",
+        "max_confidence": 0.7592752575874329,
+        "type": "TA"
+    },
+    {
+        "wav_file": "TA_kwonwoohyun3.wav",
+        "max_confidence": 0.7777009010314941,
+        "type": "TA"
+    },
+    {
+        "wav_file": "FA_kwonwoohyun1.wav",
+        "max_confidence": 0.5285830497741699,
+        "type": "FA"
+    },
+    {
+        "wav_file": "TA_heojaewoong3.wav",
+        "max_confidence": 0.818774938583374,
+        "type": "TA"
+    },
+    {
+        "wav_file": "FA_kohtaeyeon1.wav",
+        "max_confidence": 0.577097475528717,
+        "type": "FA"
+    },
+    {
+        "wav_file": "FA_hajiwon4.wav",
+        "max_confidence": 0.5420952439308167,
+        "type": "FA"
+    },
+    {
+        "wav_file": "TA_heojaewoong2.wav",
+        "max_confidence": 0.6536301970481873,
+        "type": "TA"
+    },
+    {
+        "wav_file": "FA_kohtaeyeon2.wav",
+        "max_confidence": 0.5240538120269775,
+        "type": "FA"
+    },
+    {
+        "wav_file": "TA_hajiwon1.wav",
+        "max_confidence": 0.6768876314163208,
+        "type": "TA"
+    },
+    {
+        "wav_file": "TA_hajiwon4.wav",
+        "max_confidence": 0.6855925917625427,
+        "type": "TA"
+    },
+    {
+        "wav_file": "TA_kohtaeyeon3.wav",
+        "max_confidence": 0.6552067995071411,
+        "type": "TA"
+    },
+    {
+        "wav_file": "TA_kohtaeyeon4.wav",
+        "max_confidence": 0.791089653968811,
+        "type": "TA"
+    },
+    {
+        "wav_file": "TA_hajiwon2.wav",
+        "max_confidence": 0.7452179789543152,
+        "type": "TA"
+    },
+    {
+        "wav_file": "FA_hajiwon3.wav",
+        "max_confidence": 0.6351636648178101,
+        "type": "FA"
+    },
+    {
+        "wav_file": "TA_heojaewoong4.wav",
+        "max_confidence": 0.7658398151397705,
+        "type": "TA"
+    },
+    {
+        "wav_file": "FA_heojaewoong2.wav",
+        "max_confidence": 0.5395172238349915,
+        "type": "FA"
+    },
+    {
+        "wav_file": "FA_heojaewoong1.wav",
+        "max_confidence": 0.5575094223022461,
+        "type": "FA"
+    },
+    {
+        "wav_file": "FA_kohtaeyeon4.wav",
+        "max_confidence": 0.5417351126670837,
+        "type": "FA"
+    },
+    {
+        "wav_file": "FA_hajiwon1.wav",
+        "max_confidence": 0.5480222105979919,
+        "type": "FA"
+    },
+    {
+        "wav_file": "TA_kohtaeyeon1.wav",
+        "max_confidence": 0.6969972252845764,
+        "type": "TA"
+    },
+    {
+        "wav_file": "TA_heojaewoong1.wav",
+        "max_confidence": 0.6315633654594421,
+        "type": "TA"
+    },
+    {
+        "wav_file": "TA_hajiwon3.wav",
+        "max_confidence": 0.7122436761856079,
+        "type": "TA"
+    },
+    {
+        "wav_file": "FA_heojaewoong3.wav",
+        "max_confidence": 0.6051103472709656,
+        "type": "FA"
+    },
+    {
+        "wav_file": "FA_heojaewoong4.wav",
+        "max_confidence": 0.5237905383110046,
+        "type": "FA"
+    },
+    {
+        "wav_file": "FA_kohtaeyeon3.wav",
+        "max_confidence": 0.6058149933815002,
+        "type": "FA"
+    },
+    {
+        "wav_file": "TA_kohtaeyeon2.wav",
+        "max_confidence": 0.6818913221359253,
+        "type": "TA"
+    },
+    {
+        "wav_file": "FA_hajiwon2.wav",
+        "max_confidence": 0.530545711517334,
+        "type": "FA"
+    },
+    {
+        "wav_file": "FA_parksuyeon3.wav",
+        "max_confidence": 0.5798693299293518,
+        "type": "FA"
+    },
+    {
+        "wav_file": "FA_parksuyeon4.wav",
+        "max_confidence": 0.5267864465713501,
+        "type": "FA"
+    },
+    {
+        "wav_file": "TA_parksuyeon4.wav",
+        "max_confidence": 0.6363016366958618,
+        "type": "TA"
+    },
+    {
+        "wav_file": "FA_parksuyeon2.wav",
+        "max_confidence": 0.5412980318069458,
+        "type": "FA"
+    },
+    {
+        "wav_file": "TA_parksuyeon1.wav",
+        "max_confidence": 0.7348861694335938,
+        "type": "TA"
+    },
+    {
+        "wav_file": "TA_parksuyeon3.wav",
+        "max_confidence": 0.6594913005828857,
+        "type": "TA"
+    },
+    {
+        "wav_file": "TA_parksuyeon2.wav",
+        "max_confidence": 0.5127198100090027,
+        "type": "TA"
+    },
+    {
+        "wav_file": "FA_parksuyeon1.wav",
+        "max_confidence": 0.5336341857910156,
+        "type": "FA"
+    },
+    {
+        "wav_file": "FA_honggyeonseok4.wav",
+        "max_confidence": 0.5534939765930176,
+        "type": "FA"
+    },
+    {
+        "wav_file": "TA_yujinhyeok1.wav",
+        "max_confidence": 0.8017001748085022,
+        "type": "TA"
+    },
+    {
+        "wav_file": "FA_jiyongseok2.wav",
+        "max_confidence": 0.5604221820831299,
+        "type": "FA"
+    },
+    {
+        "wav_file": "TA_limdongseong4.wav",
+        "max_confidence": 0.8269054889678955,
+        "type": "TA"
+    },
+    {
+        "wav_file": "FA_yujinhyeok3.wav",
+        "max_confidence": 0.6394734382629395,
+        "type": "FA"
+    },
+    {
+        "wav_file": "TA_kimseonghun4.wav",
+        "max_confidence": 0.728838324546814,
+        "type": "TA"
+    },
+    {
+        "wav_file": "FA_shindonguk1.wav",
+        "max_confidence": 0.5042427778244019,
+        "type": "FA"
+    },
+    {
+        "wav_file": "FA_yujinhyeok1.wav",
+        "max_confidence": 0.637579619884491,
+        "type": "FA"
+    },
+    {
+        "wav_file": "TA_shindonguk4.wav",
+        "max_confidence": 0.8081209659576416,
+        "type": "TA"
+    },
+    {
+        "wav_file": "FA_shindonguk4.wav",
+        "max_confidence": 0.5160099267959595,
+        "type": "FA"
+    },
+    {
+        "wav_file": "TA_yujinhyeok4.wav",
+        "max_confidence": 0.732558012008667,
+        "type": "TA"
+    },
+    {
+        "wav_file": "FA_seomuseong4.wav",
+        "max_confidence": 0.534440815448761,
+        "type": "FA"
+    },
+    {
+        "wav_file": "TA_shindonguk1.wav",
+        "max_confidence": 0.7891378998756409,
+        "type": "TA"
+    },
+    {
+        "wav_file": "TA_songmyeonseok4.wav",
+        "max_confidence": 0.7656211256980896,
+        "type": "TA"
+    },
+    {
+        "wav_file": "FA_jiyongseok1.wav",
+        "max_confidence": 0.5363601446151733,
+        "type": "FA"
+    },
+    {
+        "wav_file": "TA_songmyeonseok1.wav",
+        "max_confidence": 0.7335312366485596,
+        "type": "TA"
+    },
+    {
+        "wav_file": "TA_kimseonghun2.wav",
+        "max_confidence": 0.530784010887146,
+        "type": "TA"
+    },
+    {
+        "wav_file": "FA_honggyeonseok3.wav",
+        "max_confidence": 0.6125326156616211,
+        "type": "FA"
+    },
+    {
+        "wav_file": "FA_seomuseong3.wav",
+        "max_confidence": 0.585468053817749,
+        "type": "FA"
+    },
+    {
+        "wav_file": "FA_shindonguk3.wav",
+        "max_confidence": 0.5901262760162354,
+        "type": "FA"
+    },
+    {
+        "wav_file": "TA_seomuseong4.wav",
+        "max_confidence": 0.868998110294342,
+        "type": "TA"
+    },
+    {
+        "wav_file": "TA_seomuseong2.wav",
+        "max_confidence": 0.7651150226593018,
+        "type": "TA"
+    },
+    {
+        "wav_file": "TA_yujinhyeok3.wav",
+        "max_confidence": 0.7449930310249329,
+        "type": "TA"
+    },
+    {
+        "wav_file": "TA_kimseonghun3.wav",
+        "max_confidence": 0.6966754794120789,
+        "type": "TA"
+    },
+    {
+        "wav_file": "FA_songmyeonseok2.wav",
+        "max_confidence": 0.5481626391410828,
+        "type": "FA"
+    },
+    {
+        "wav_file": "TA_jiyongseok4.wav",
+        "max_confidence": 0.8030820488929749,
+        "type": "TA"
+    },
+    {
+        "wav_file": "FA_kimseonghun3.wav",
+        "max_confidence": 0.6188910007476807,
+        "type": "FA"
+    },
+    {
+        "wav_file": "TA_yujinhyeok2.wav",
+        "max_confidence": 0.7937877178192139,
+        "type": "TA"
+    },
+    {
+        "wav_file": "TA_jiyongseok2.wav",
+        "max_confidence": 0.7726143002510071,
+        "type": "TA"
+    },
+    {
+        "wav_file": "TA_songmyeonseok2.wav",
+        "max_confidence": 0.6179280877113342,
+        "type": "TA"
+    },
+    {
+        "wav_file": "FA_honggyeonseok1.wav",
+        "max_confidence": 0.5342639684677124,
+        "type": "FA"
+    },
+    {
+        "wav_file": "TA_jiyongseok3.wav",
+        "max_confidence": 0.8397569060325623,
+        "type": "TA"
+    },
+    {
+        "wav_file": "FA_limdongseong4.wav",
+        "max_confidence": 0.5204538106918335,
+        "type": "FA"
+    },
+    {
+        "wav_file": "TA_seomuseong1.wav",
+        "max_confidence": 0.7498325109481812,
+        "type": "TA"
+    },
+    {
+        "wav_file": "FA_limdongseong3.wav",
+        "max_confidence": 0.6436735987663269,
+        "type": "FA"
+    },
+    {
+        "wav_file": "TA_kimseonghun1.wav",
+        "max_confidence": 0.8096364140510559,
+        "type": "TA"
+    },
+    {
+        "wav_file": "TA_limdongseong2.wav",
+        "max_confidence": 0.8601511716842651,
+        "type": "TA"
+    },
+    {
+        "wav_file": "TA_songmyeonseok3.wav",
+        "max_confidence": 0.703815221786499,
+        "type": "TA"
+    },
+    {
+        "wav_file": "TA_limdongseong3.wav",
+        "max_confidence": 0.825935423374176,
+        "type": "TA"
+    },
+    {
+        "wav_file": "TA_jiyongseok1.wav",
+        "max_confidence": 0.7932672500610352,
+        "type": "TA"
+    },
+    {
+        "wav_file": "FA_jiyongseok4.wav",
+        "max_confidence": 0.5783159732818604,
+        "type": "FA"
+    },
+    {
+        "wav_file": "TA_shindonguk2.wav",
+        "max_confidence": 0.7825289964675903,
+        "type": "TA"
+    },
+    {
+        "wav_file": "TA_honggyeongseok2.wav",
+        "max_confidence": 0.7115790843963623,
+        "type": "TA"
+    },
+    {
+        "wav_file": "FA_kimseonghun2.wav",
+        "max_confidence": 0.5558502078056335,
+        "type": "FA"
+    },
+    {
+        "wav_file": "TA_honggyeongseok1.wav",
+        "max_confidence": 0.6834384202957153,
+        "type": "TA"
+    },
+    {
+        "wav_file": "TA_limdongseong1.wav",
+        "max_confidence": 0.819827675819397,
+        "type": "TA"
+    },
+    {
+        "wav_file": "FA_limdongseong2.wav",
+        "max_confidence": 0.5434409379959106,
+        "type": "FA"
+    },
+    {
+        "wav_file": "FA_seomuseong1.wav",
+        "max_confidence": 0.5486621260643005,
+        "type": "FA"
+    },
+    {
+        "wav_file": "FA_kimseonghun1.wav",
+        "max_confidence": 0.5488178133964539,
+        "type": "FA"
+    },
+    {
+        "wav_file": "TA_honggyeongseok3.wav",
+        "max_confidence": 0.510250449180603,
+        "type": "TA"
+    },
+    {
+        "wav_file": "FA_jiyongseok3.wav",
+        "max_confidence": 0.650632917881012,
+        "type": "FA"
+    },
+    {
+        "wav_file": "FA_seomuseong2.wav",
+        "max_confidence": 0.5340431928634644,
+        "type": "FA"
+    },
+    {
+        "wav_file": "FA_shindonguk2.wav",
+        "max_confidence": 0.5449452996253967,
+        "type": "FA"
+    },
+    {
+        "wav_file": "FA_limdongseong1.wav",
+        "max_confidence": 0.6036446690559387,
+        "type": "FA"
+    },
+    {
+        "wav_file": "TA_shindonguk3.wav",
+        "max_confidence": 0.8739697933197021,
+        "type": "TA"
+    },
+    {
+        "wav_file": "FA_songmyeonseok4.wav",
+        "max_confidence": 0.5507739186286926,
+        "type": "FA"
+    },
+    {
+        "wav_file": "FA_songmyeonseok3.wav",
+        "max_confidence": 0.6498154997825623,
+        "type": "FA"
+    },
+    {
+        "wav_file": "TA_seomuseong3.wav",
+        "max_confidence": 0.7963404655456543,
+        "type": "TA"
+    },
+    {
+        "wav_file": "FA_kimseonghun4.wav",
+        "max_confidence": 0.536809504032135,
+        "type": "FA"
+    },
+    {
+        "wav_file": "FA_honggyeonseok2.wav",
+        "max_confidence": 0.5702292323112488,
+        "type": "FA"
+    },
+    {
+        "wav_file": "FA_yujinhyeok4.wav",
+        "max_confidence": 0.5550499558448792,
+        "type": "FA"
+    },
+    {
+        "wav_file": "TA_honggyeongseok4.wav",
+        "max_confidence": 0.5505803823471069,
+        "type": "TA"
+    },
+    {
+        "wav_file": "FA_songmyeonseok1.wav",
+        "max_confidence": 0.5423170328140259,
+        "type": "FA"
+    },
+    {
+        "wav_file": "FA_yujinhyeok2.wav",
+        "max_confidence": 0.5416426062583923,
+        "type": "FA"
+    },
+    {
+        "wav_file": "FA_kangshinwoo2.wav",
+        "max_confidence": 0.5498573184013367,
+        "type": "FA"
+    },
+    {
+        "wav_file": "TA_parkjuhyeon4.wav",
+        "max_confidence": 0.7118430137634277,
+        "type": "TA"
+    },
+    {
+        "wav_file": "TA_kwonohjun1.wav",
+        "max_confidence": 0.6169261932373047,
+        "type": "TA"
+    },
+    {
+        "wav_file": "FA_kangshinwoo5.wav",
+        "max_confidence": 0.5436728000640869,
+        "type": "FA"
+    },
+    {
+        "wav_file": "FA_kwonohjun1.wav",
+        "max_confidence": 0.5364168882369995,
+        "type": "FA"
+    },
+    {
+        "wav_file": "TA_kwonohjun3.wav",
+        "max_confidence": 0.6429427862167358,
+        "type": "TA"
+    },
+    {
+        "wav_file": "FA_kwonohjun5.wav",
+        "max_confidence": 0.555279552936554,
+        "type": "FA"
+    },
+    {
+        "wav_file": "FA_parkjuhyeon2.wav",
+        "max_confidence": 0.5438101291656494,
+        "type": "FA"
+    },
+    {
+        "wav_file": "TA_kwonohjun5.wav",
+        "max_confidence": 0.6618984937667847,
+        "type": "TA"
+    },
+    {
+        "wav_file": "TA_parkjuhyeon1.wav",
+        "max_confidence": 0.5323060750961304,
+        "type": "TA"
+    },
+    {
+        "wav_file": "TA_shinhyeonhak4.wav",
+        "max_confidence": 0.759880781173706,
+        "type": "TA"
+    },
+    {
+        "wav_file": "FA_shinhyeonhak1.wav",
+        "max_confidence": 0.5604783296585083,
+        "type": "FA"
+    },
+    {
+        "wav_file": "FA_shinhyeonhak3.wav",
+        "max_confidence": 0.6317862868309021,
+        "type": "FA"
+    },
+    {
+        "wav_file": "FA_shinhyeonhak5.wav",
+        "max_confidence": 0.547572672367096,
+        "type": "FA"
+    },
+    {
+        "wav_file": "FA_parkjuhyeon5.wav",
+        "max_confidence": 0.5589085817337036,
+        "type": "FA"
+    },
+    {
+        "wav_file": "TA_shinhyeonhak2.wav",
+        "max_confidence": 0.6552963256835938,
+        "type": "TA"
+    },
+    {
+        "wav_file": "TA_kwonohjun2.wav",
+        "max_confidence": 0.7817007899284363,
+        "type": "TA"
+    },
+    {
+        "wav_file": "FA_shinhyeonhak2.wav",
+        "max_confidence": 0.5366105437278748,
+        "type": "FA"
+    },
+    {
+        "wav_file": "TA_parkjuhyeon3.wav",
+        "max_confidence": 0.7240518927574158,
+        "type": "TA"
+    },
+    {
+        "wav_file": "FA_kwonohjun3.wav",
+        "max_confidence": 0.6014642715454102,
+        "type": "FA"
+    },
+    {
+        "wav_file": "FA_kwonohjun2.wav",
+        "max_confidence": 0.5400283336639404,
+        "type": "FA"
+    },
+    {
+        "wav_file": "TA_shinhyeonhak5.wav",
+        "max_confidence": 0.7718425989151001,
+        "type": "TA"
+    },
+    {
+        "wav_file": "FA_parkjuhyeon3.wav",
+        "max_confidence": 0.49488627910614014,
+        "type": "FA"
+    },
+    {
+        "wav_file": "TA_parkjuhyeon2.wav",
+        "max_confidence": 0.6226178407669067,
+        "type": "TA"
+    },
+    {
+        "wav_file": "TA_parkjuhyeon5.wav",
+        "max_confidence": 0.6734338402748108,
+        "type": "TA"
+    },
+    {
+        "wav_file": "TA_shinhyeonhak1.wav",
+        "max_confidence": 0.7108475565910339,
+        "type": "TA"
+    },
+    {
+        "wav_file": "TA_kwonohjun4.wav",
+        "max_confidence": 0.7969123721122742,
+        "type": "TA"
+    },
+    {
+        "wav_file": "FA_kangshinwoo1.wav",
+        "max_confidence": 0.550057053565979,
+        "type": "FA"
+    },
+    {
+        "wav_file": "TA_shinhyeonhak3.wav",
+        "max_confidence": 0.681444525718689,
+        "type": "TA"
+    },
+    {
+        "wav_file": "FA_parkjuhyeon1.wav",
+        "max_confidence": 0.5540059804916382,
+        "type": "FA"
+    },
+    {
+        "wav_file": "FA_kangshinwoo3.wav",
+        "max_confidence": 0.5839217901229858,
+        "type": "FA"
+    }
+]

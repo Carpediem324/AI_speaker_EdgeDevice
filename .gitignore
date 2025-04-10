@@ -1,0 +1,64 @@
+# Virtual environment
+/myenv/
+venv/
+env/
+AP/
+
+# Python cache files and compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg
+*.egg-info/
+.eggs/
+.Python
+
+# Build output directories
+/build/
+/dist/
+
+# Node.js dependencies
+/node_modules/
+
+# IDE/editor settings
+/.vscode/
+.idea/
+
+# Log files
+*.log
+
+# Environment variable files (예: GPT API 키 등)
+.env
+*.ini
+# Audio files
+*.wav
+
+# IoT 관련 빌드 산출물 (예: 펌웨어, 바이너리 파일)
+*.bin
+*.hex
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# 기타 캐시/임시 파일
+*.cache
+
+# IntelliJ IDEA
+ .idea
+*.iws
+*.iml
+*.ipr
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+
+# spring boot
+HELP.md
+.gradle
+build/
+
+# test용 파일
+/hub/core/test
+Dummy*.py
