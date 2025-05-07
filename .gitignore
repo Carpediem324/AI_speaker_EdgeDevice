@@ -32,7 +32,6 @@ __pycache__/
 .env
 *.ini
 # Audio files
-*.wav
 
 # IoT 관련 빌드 산출물 (예: 펌웨어, 바이너리 파일)
 *.bin
